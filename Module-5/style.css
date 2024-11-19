@@ -155,3 +155,6 @@ main section{
     color: #474747;
     font-weight: 700;
 }
+.resume-item-description, .resume-item-info{
+    color: #757575;
+}
