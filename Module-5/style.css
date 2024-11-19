@@ -147,7 +147,8 @@ main section{
 /* resume styles  */
 
 .resume-container{
-    
+    display: flex;
+    gap: 50px;
 }
 .resume-column-title{
     font-size: 30px;
