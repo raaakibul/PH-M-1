@@ -154,7 +154,14 @@ main section{
     font-size: 30px;
     color: #474747;
     font-weight: 700;
+    margin-bottom: 10px;
 }
-.resume-item-description, .resume-item-info{
+.resume-item-info{
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+
+.resume-item-description, 
+.resume-item-info{
     color: #757575;
 }
